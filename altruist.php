@@ -51,5 +51,3 @@ require __DIR__.'/_templates/header.php';
 
 </body>
 </html>
-		<br>
-		<img src="assets/images/logos/cancer_research_uk.png" alt="Cancer Research UK Logo" class="header-img">
