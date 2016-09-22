@@ -122,16 +122,8 @@ require __DIR__.'/_templates/header.php';
 		<h2 id="news">In the news</h2>
 		<ul class="list-style-none">
 			<li>
-				<a href="https://www.reddit.com/r/elementaryos/comments/4ze4u2/fabian_thoma_and_lewis_goddard_talk_about_the/">
-					<i class="fa fa-reddit"></i> /r/elementaryos &mdash; Fabian Thoma and Lewis Goddard talk about the Paris Hackfest on LINUX Unplugged 159
-				</a>
-			<li>
 				<a href="http://www.jupiterbroadcasting.com/102466/all-wimpys-vault-lup-159/">
 					<i class="fa fa-linux"></i> Linux Unplugged &mdash; Episode 159 &mdash; All Wimpy’s Vault!
-				</a>
-			<li>
-				<a href="https://www.reddit.com/r/elementaryos/comments/4z8h1z/lewis_goddard_to_be_on_linux_unplugged_today_at/">
-					<i class="fa fa-reddit"></i> /r/elementaryos &mdash; Lewis Goddard to be on LINUX Unplugged today at 2pm PST
 				</a>
 			<li>
 				<a href="https://soundcloud.com/simply-elementary/episode-17-twinny-questions-with-the-devs-loki-beta-special">
