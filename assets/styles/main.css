@@ -251,6 +251,14 @@ img.float-center { margin: 1rem auto; }
 .social-button.fa-spotify { background: #7ab800; }
 .social-button.fa-amazon { background: #ff9900; }
 .social-button.fa-paypal { background: #009cde; }
+.social-buttons .twitter a { color: #55acee; }
+.social-buttons .google-plus a { color: #dc4e41; }
+.social-buttons .stack-exchange a { color: #fe7a15; }
+.social-buttons .github a { color: #333333; }
+.social-buttons .lastfm a { color: #d51007; }
+.social-buttons .spotify a { color: #7ab800; }
+.social-buttons .amazon a { color: #ff9900; }
+.social-buttons .paypal button { color: #009cde; }
 #pay { display: inline-block; }
 
 /* $ Local Buttons */

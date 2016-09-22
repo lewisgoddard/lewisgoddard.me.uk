@@ -15,22 +15,56 @@ require __DIR__.'/_templates/header.php';
 	<section>
 		<h2 id="contact">Contact me</h2>
 		<p><em class="faded">The quickest way to contact me quickly is probably Twitter, or you can </em><a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#111;&#100;&#100;&#97;&#114;&#100;&#46;&#108;&#101;&#119;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">send me an email</a><em class="faded">. Issues or Questions about any of the GitHub repositories I contribute to should be posted there, that way the issues can be used for reference and I can get a warm, fuzzy feeling when I close them.</em></p>
-		<div class="social-buttons">
-			<a title="EMail" href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#111;&#100;&#100;&#97;&#114;&#100;&#46;&#108;&#101;&#119;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"><i class="social-button fa fa-envelope"></i></a>
-			<a title="Twitter" href="https://twitter.com/goddardlewis"><i class="social-button fa fa-twitter"></i></a>
-			<!-- Diabled due to inactivity <a alt="Google+" href="https://google.com/+LewisGoddard" class="social-button google-plus"><i class="social-button fa fa-google-plus"></i></a> -->
-			<a title="StackExchange" href="https://stackexchange.com/users/904259/lewis-goddard?tab=accounts"><i class="social-button fa fa-stack-exchange"></i></a>
-			<a title="GitHub" href="https://github.com/lewisgoddard?period=monthly"><i class="social-button fa fa-github-alt"></i></a>
-			<a title="Last.fm" href="http://www.last.fm/user/goddardlewis/library/artists"><i class="social-button fa fa-lastfm"></i></a>
-			<a title="Amazon" href="https://www.amazon.co.uk/registry/wishlist/LFO24Y9BMN6G/?sort=priority"><i class="social-button fa fa-amazon"></i></a>
-			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" id="pay">
-				<input type="hidden" name="cmd" value="_s-xclick">
-				<input type="hidden" name="hosted_button_id" value="MDPLM3Q88KAN8">
-				<input type="hidden" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-				<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1" style="width:0!important;height:0!important;display:none;">
-				<button title="PayPal" type="submit"><i class="social-button fa fa-paypal"></i></button>
-			</form>
-		</div>
+		<ul class="social-buttons list-style-none columns-two-large">
+			<li class="pink">
+				<a title="E-Mail" href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#111;&#100;&#100;&#97;&#114;&#100;&#46;&#108;&#101;&#119;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+					<i class="social-button fa fa-envelope"></i>
+					E-Mail
+				</a>
+			<li class="twitter">
+				<a title="Twitter" href="https://twitter.com/goddardlewis">
+					<i class="social-button fa fa-twitter"></i>
+					Twitter
+				</a>
+			<!-- Diabled due to inactivity
+			<li class="google-plus">
+				<a alt="Google+" href="https://google.com/+LewisGoddard" class="social-button google-plus">
+					<i class="social-button fa fa-google-plus"></i>
+					Google+
+				</a>
+			-->
+			<li class="stack-exchange">
+				<a title="StackExchange" href="https://stackexchange.com/users/904259/lewis-goddard?tab=accounts">
+					<i class="social-button fa fa-stack-exchange"></i>
+					StackExchange
+				</a>
+			<li class="github">
+				<a title="GitHub" href="https://github.com/lewisgoddard?period=monthly">
+					<i class="social-button fa fa-github-alt"></i>
+					GitHub
+				</a>
+			<li class="lastfm">
+				<a title="Last.fm" href="http://www.last.fm/user/goddardlewis/library/artists">
+					<i class="social-button fa fa-lastfm"></i>
+					Last.fm
+				</a>
+			<li class="amazon">
+				<a title="Amazon" href="https://www.amazon.co.uk/registry/wishlist/LFO24Y9BMN6G/?sort=priority">
+					<i class="social-button fa fa-amazon"></i>
+					Amazon
+				</a>
+			<li class="paypal">
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" id="pay">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="MDPLM3Q88KAN8">
+					<input type="hidden" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1" style="width:0!important;height:0!important;display:none;">
+					<button title="PayPal" type="submit">
+						<i class="social-button fa fa-paypal"></i>
+						PayPal
+					</button>
+				</form>
+		</ul>
 	</section>
 
 	<section>
