@@ -122,6 +122,10 @@ require __DIR__.'/_templates/header.php';
 		<h2 id="news">In the news</h2>
 		<ul class="list-style-none">
 			<li>
+				<a href="http://blog.elementary.io/post/152434095006/whats-web-team-up-to">
+					<i class="fa fa-comments"></i> elementary OS Blog &mdash; What’s Web Team Up To?
+				</a>
+			<li>
 				<a href="http://www.jupiterbroadcasting.com/102466/all-wimpys-vault-lup-159/">
 					<i class="fa fa-linux"></i> Linux Unplugged &mdash; Episode 159 &mdash; All Wimpy’s Vault!
 				</a>
