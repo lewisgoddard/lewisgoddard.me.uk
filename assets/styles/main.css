@@ -108,6 +108,9 @@ ul.list-style-none {
 	list-style: none;
 	padding-left: 0;
 }
+ul.list-style-none i.fa {
+    min-width: 1.2rem;
+}
 p,
 .max-50 {
 	max-width: 50rem;
