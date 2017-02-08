@@ -37,6 +37,22 @@
         
         "time-min-milliseconds": 100,
         
+        "unit-case": "lower",
+        "unit-no-unknown": true,
+        
+        "value-keyword-case": "lower",
+        "value-no-vendor-prefix": true,
+        
+        "value-list-comma-newline-after": "always-multi-line",
+        "value-list-comma-newline-before": "never-multi-line",
+        "value-list-comma-space-after": "always-single-line",
+        "value-list-comma-space-before": "never",
+        "value-list-max-empty-lines": 0,
+        
+        "custom-property-empty-line-before": "never",
+        
+        "shorthand-property-no-redundant-values": true,
+        
         "indentation": [ "tab", {
             "ignore": ["inside-parens", "param", "value"]
         }],
@@ -134,10 +150,5 @@
         "selector-type-case": "lower",
         "selector-type-no-unknown": true,
         "shorthand-property-no-redundant-values": true,
-        "unit-case": "lower",
-        "unit-no-unknown": true,
-        "value-list-comma-newline-after": "always-multi-line",
-        "value-list-comma-space-after": "always-single-line",
-        "value-list-comma-space-before": "never"
     }
 }
