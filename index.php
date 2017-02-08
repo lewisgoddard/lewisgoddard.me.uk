@@ -6,7 +6,7 @@ require __DIR__.'/_templates/header.php';
 
 ?>
 
-	<header id="name">
+	<header class="name">
 		<div class="float-left round face"></div>
 		<h1>Lewis Goddard</h1>
 		<p class="subtitle">A full-time Production Technician, freelance Web Developer &amp; Data Analyst. Also volunteering as a Community Manager for <a href="https://eustasy.org">eustasy</a> and a Web Architect and Community Moderator for <a href="https://elementary.io">elementary</a>.</p>
