@@ -4,7 +4,7 @@
         "color-hex-case": "lower",
         "color-hex-length": "long",
         "color-named": "never",
-        "color-no-invalid-hex": "true",
+        "color-no-invalid-hex": true,
         
         "font-family-name-quotes": "always-unless-keyword",
         "font-family-no-duplicate-names": true,
@@ -22,11 +22,7 @@
             "ignore": ["after-comment"]
         }],
         "at-rule-name-case": "lower",
-        "at-rule-name-space-after": [ "never", {
-            "except": [
-                "always-multi-line"
-            ],
-        }],
+        "at-rule-name-space-after": "always",
         "at-rule-semicolon-newline-after": "always",
         "block-closing-brace-empty-line-before": "never",
         "block-closing-brace-newline-after": "always",
