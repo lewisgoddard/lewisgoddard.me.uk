@@ -145,10 +145,7 @@
         "at-rule-no-vendor-prefix": true,
         "at-rule-semicolon-newline-after": "always",
         
-        "comment-empty-line-before": [ "always", {
-            "except": ["first-nested"],
-            "ignore": ["stylelint-commands"]
-        }],
+        "comment-empty-line-before": "never",
         "comment-no-empty": true,
         "comment-whitespace-inside": "always",
         
