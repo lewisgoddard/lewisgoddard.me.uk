@@ -1,8 +1,5 @@
 {
-    "plugins": [
-        "stylelint-order"
-    ],
-    
+
     "rules": {
         
         "color-hex-case": "lower",
@@ -169,14 +166,5 @@
         "no-invalid-double-slash-comments": true,
         "no-unknown-animations": true,
 
-        "order/declaration-block-order": [
-            "custom-properties",
-            "dollar-variables",
-            "declarations",
-            "rules",
-            "at-rules"
-        ],
-        "order/declaration-block-properties-alphabetical-order": true
-        
     }
 }
