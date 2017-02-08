@@ -4,6 +4,9 @@
         "color-hex-length": "long",
         "color-named": "never",
         "color-no-invalid-hex": "true",
+        "indentation": [ "tab", {
+            ignore: ["inside-parens", "param", "value"]
+        },
         
         "at-rule-empty-line-before": [ "always", {
             "except": [
@@ -75,7 +78,6 @@
         "function-parentheses-newline-inside": "always-multi-line",
         "function-parentheses-space-inside": "never-single-line",
         "function-whitespace-after": "always",
-        "indentation": 4,
         "keyframe-declaration-no-important": true,
         "length-zero-no-unit": true,
         "max-empty-lines": 1,
