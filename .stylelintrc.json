@@ -23,7 +23,7 @@
         "function-parentheses-space-inside": "never-single-line",
         "function-url-no-scheme-relative": true,
         "function-url-quotes": "always",
-        "function-url-scheme-whitelist": ["https", "data"]
+        "function-url-scheme-whitelist": ["https", "data"],
         "function-whitespace-after": "always",
         
         "indentation": [ "tab", {
