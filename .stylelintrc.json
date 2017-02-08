@@ -1,4 +1,8 @@
 {
+    "plugins": [
+        "stylelint-order"
+    ],
+    
     "rules": {
         
         "color-hex-case": "lower",
@@ -151,5 +155,15 @@
         "selector-type-case": "lower",
         "selector-type-no-unknown": true,
         "shorthand-property-no-redundant-values": true,
+        
+        "order/declaration-block-order": [
+            "custom-properties",
+            "dollar-variables",
+            "declarations",
+            "rules",
+            "at-rules"
+        ],
+        "order/declaration-block-properties-alphabetical-order": true
+        
     }
 }
