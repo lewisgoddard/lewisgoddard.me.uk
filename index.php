@@ -26,13 +26,22 @@ require __DIR__.'/_templates/header.php';
 					<i class="social-button fa fa-twitter"></i>
 					Twitter
 				</a>
-			<!-- Diabled due to inactivity
+			<li class="lastfm">
+				<a title="Last.fm" href="http://www.last.fm/user/goddardlewis/library/artists">
+					<i class="social-button fa fa-lastfm"></i>
+					Last.fm
+				</a>
 			<li class="google-plus">
 				<a alt="Google+" href="https://google.com/+LewisGoddard" class="social-button google-plus">
 					<i class="social-button fa fa-google-plus"></i>
 					Google+
 				</a>
-			-->
+		</ul>
+	</section>
+
+	<section>
+		<h2 id="contact">Code with me</h2>
+		<ul class="social-buttons list-style-none columns-two-large">
 			<li class="stack-exchange">
 				<a title="StackExchange" href="https://stackexchange.com/users/904259/lewis-goddard?tab=accounts">
 					<i class="social-button fa fa-stack-exchange"></i>
@@ -43,11 +52,12 @@ require __DIR__.'/_templates/header.php';
 					<i class="social-button fa fa-github-alt"></i>
 					GitHub
 				</a>
-			<li class="lastfm">
-				<a title="Last.fm" href="http://www.last.fm/user/goddardlewis/library/artists">
-					<i class="social-button fa fa-lastfm"></i>
-					Last.fm
-				</a>
+		</ul>
+	</section>
+
+	<section>
+		<h2 id="contact">Pay me</h2>	
+		<ul class="social-buttons list-style-none columns-two-large">
 			<li class="amazon">
 				<a title="Amazon" href="https://www.amazon.co.uk/registry/wishlist/LFO24Y9BMN6G/?sort=priority">
 					<i class="social-button fa fa-amazon"></i>
