@@ -6,7 +6,7 @@
         "color-no-invalid-hex": "true",
         "indentation": [ "tab", {
             "ignore": ["inside-parens", "param", "value"]
-        },
+        }],
         
         "at-rule-empty-line-before": [ "always", {
             "except": [
