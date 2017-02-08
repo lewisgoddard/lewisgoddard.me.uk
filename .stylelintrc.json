@@ -9,6 +9,23 @@
         "font-family-name-quotes": "always-unless-keyword",
         "font-family-no-duplicate-names": true,
         
+        "font-weight-notation": "numeric",
+        
+        "function-calc-no-unspaced-operator": true,
+        "function-comma-newline-after": "always-multi-line",
+        "function-comma-newline-before": "never-multi-line",
+        "function-comma-space-after": "always",
+        "function-comma-space-before": "never",
+        "function-linear-gradient-no-nonstandard-direction": true,
+        "function-max-empty-lines": 0,
+        "function-name-case": "lower",
+        "function-parentheses-newline-inside": "always-multi-line",
+        "function-parentheses-space-inside": "never-single-line",
+        "function-url-no-scheme-relative": true,
+        "function-url-quotes": "always",
+        "function-url-scheme-whitelist": ["https", "data"]
+        "function-whitespace-after": "always",
+        
         "indentation": [ "tab", {
             "ignore": ["inside-parens", "param", "value"]
         }],
@@ -69,16 +86,6 @@
                 "inside-single-line-block"
             ]
         }],
-        "function-calc-no-unspaced-operator": true,
-        "function-comma-newline-after": "always-multi-line",
-        "function-comma-space-after": "always-single-line",
-        "function-comma-space-before": "never",
-        "function-linear-gradient-no-nonstandard-direction": true,
-        "function-max-empty-lines": 0,
-        "function-name-case": "lower",
-        "function-parentheses-newline-inside": "always-multi-line",
-        "function-parentheses-space-inside": "never-single-line",
-        "function-whitespace-after": "always",
         "keyframe-declaration-no-important": true,
         "length-zero-no-unit": true,
         "max-empty-lines": 1,
