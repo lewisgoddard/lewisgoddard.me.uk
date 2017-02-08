@@ -5,7 +5,7 @@
         "color-named": "never",
         "color-no-invalid-hex": "true",
         "indentation": [ "tab", {
-            ignore: ["inside-parens", "param", "value"]
+            "ignore": ["inside-parens", "param", "value"]
         },
         
         "at-rule-empty-line-before": [ "always", {
