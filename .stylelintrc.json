@@ -1,9 +1,14 @@
 {
     "rules": {
-        "color": "color-hex-case",
+        
+        "color-hex-case": "lower",
         "color-hex-length": "long",
         "color-named": "never",
         "color-no-invalid-hex": "true",
+        
+        "font-family-name-quotes": "always-unless-keyword",
+        "font-family-no-duplicate-names": true,
+        
         "indentation": [ "tab", {
             "ignore": ["inside-parens", "param", "value"]
         }],
