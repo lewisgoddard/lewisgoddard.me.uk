@@ -7,12 +7,11 @@ Clear Sky #a8e0f4
 Pale Turquoise #aee8e1
 
 */
-
 /* $ Sections */
 body {
 	background: #fefefe;
-	color: #222;
-	font: 400 16px/1.4 'Source Sans Pro', Sans;
+	color: #222222;
+	font: 400 16px/1.4 "Source Sans Pro", sans-serif;
 	margin: 0;
 	min-height: 100%;
 	overflow-x: hidden;
@@ -35,7 +34,6 @@ section::after {
 	height: 0;
 	visibility: hidden;
 }
-
 /* $ Typography */
 h1,
 h2 {
@@ -57,7 +55,7 @@ h1 {
 	color: #111;
 	font-size: 6rem;
 }
-#name h1 {
+.name h1 {
 	border-bottom: #f4a8d0 3px solid;
 	display: inline-block;
 	padding: 0 1rem;
@@ -121,7 +119,6 @@ blockquote {
 	margin-left: 0;
 	padding: 1rem;
 }
-
 /* $ Blocks & Classes */
 .face {
 	background: url('../images/faces/circular-blue-small-compressed.png') repeat 50% 50%;
@@ -183,7 +180,6 @@ img.float-center { margin: 1rem auto; }
 .header-img {
 	max-height: 3rem;
 }
-
 /* $ Buttons */
 .local-buttons,
 .social-buttons,
@@ -241,7 +237,6 @@ img.float-center { margin: 1rem auto; }
 .local-button i { color: #fff; }
 .local-buttons + .local-button:last-child,
 .social-buttons + .social-button:last-child { margin: 1rem 0 0; }
-
 /* $ Social Buttons */
 .social-button { background: #d34836; }
 .social-button.fa-envelope { background: #f4a8d0; }
@@ -263,49 +258,39 @@ img.float-center { margin: 1rem auto; }
 .social-buttons .amazon a { color: #ff9900; }
 .social-buttons .paypal button { color: #009cde; }
 #pay { display: inline-block; }
-
 /* $ Local Buttons */
-
 /* Pink (Loved) */
 .pink a { color: #f4a8d0; }
 .pink .local-button,
 .pink .backed { background: #f4a8d0; }
-
 /* Red */
 .red a { color: #c0392b; }
 .red .local-button,
 .red .backed { background: #c0392b; }
-
 /* Orange */
 .orange a { color: #d35400; }
 .orange .local-button,
 .orange .backed { background: #d35400; }
-
 /* Yellow */
 .yellow a { color: #f39c12; }
 .yellow .local-button,
 .yellow .backed { background: #f39c12; }
-
 /* Green */
 .green a { color: #27ae60; }
 .green .local-button,
 .green .backed { background: #27ae60; }
-
 /* Turquoise */
 .turquoise a { color: #16a085; }
 .turquoise .local-button,
 .turquoise .backed { background: #16a085; }
-
 /* Blue */
 .blue a { color: #2980b9; }
 .blue .local-button,
 .blue .backed { background: #2980b9; }
-
 /* Purple */
 .purple a { color: #8e44ad; }
 .purple .local-button,
 .purple .backed { background: #8e44ad; }
-
 .button {
 	background: #333;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),
@@ -324,7 +309,6 @@ img.float-center { margin: 1rem auto; }
 	box-shadow: none;
 	color: #fff;
 }
-
 /* $ Responsive */
 section.wide { max-width: calc(100% - 10rem); }
 @media only screen and (min-width: 1280px) {
@@ -370,14 +354,14 @@ section.wide { max-width: calc(100% - 10rem); }
 		float: none;
 		margin: 1rem auto;
 	}
-	#name h1 {
-		padding: 0;
-		width: 100%;
-	}
 	h1 { font-size: 4em; }
 	h1,
 	h2 {
 		text-align: center;
+	}
+	.name h1 {
+		padding: 0;
+		width: 100%;
 	}
 	header,
 	section {
