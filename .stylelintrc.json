@@ -111,21 +111,26 @@
         "media-query-list-comma-space-after": "always-single-line",
         "media-query-list-comma-space-before": "never",
         
-        "indentation": [ "tab", {
-            "ignore": ["inside-parens", "param", "value"]
-        }],
-        
         "at-rule-empty-line-before": [ "always", {
             "except": [
-                "blockless-after-blockless",
-                "first-nested",
-                "inside-block"
+                "after-same-name",
+                "inside-block",
+                "blockless-after-same-name-blockless",
+                "first-nested"
             ],
             "ignore": ["after-comment"]
         }],
         "at-rule-name-case": "lower",
-        "at-rule-name-space-after": "always",
+        "at-rule-name-newline-after": "always-multi-line",
+        "at-rule-name-space-after": "always-single-line",
+        "at-rule-no-unknown": true,
+        "at-rule-no-vendor-prefix": true,
         "at-rule-semicolon-newline-after": "always",
+        
+        "indentation": [ "tab", {
+            "ignore": ["inside-parens", "param", "value"]
+        }],
+        
         "comment-empty-line-before": [ "always", {
             "except": ["first-nested"],
             "ignore": ["stylelint-commands"]
