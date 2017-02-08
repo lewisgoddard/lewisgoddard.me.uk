@@ -132,7 +132,6 @@
         }],
         "comment-no-empty": true,
         "comment-whitespace-inside": "always",
-        "keyframe-declaration-no-important": true,
         "max-empty-lines": 1,
         "no-empty-source": true,
         "no-eol-whitespace": true,
@@ -156,7 +155,6 @@
         "selector-pseudo-element-no-unknown": true,
         "selector-type-case": "lower",
         "selector-type-no-unknown": true,
-        "shorthand-property-no-redundant-values": true,
         
         "order/declaration-block-order": [
             "custom-properties",
