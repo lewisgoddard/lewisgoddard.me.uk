@@ -191,6 +191,7 @@ img.float-center { margin: 1rem auto; }
 }
 .local-button,
 .social-button {
+	background: #d34836;
 	box-shadow:
 		0 2px 5px  0 rgba(0, 0, 0, 0.16),
 		0 2px 10px 0 rgba(0, 0, 0, 0.12);
@@ -207,7 +208,6 @@ img.float-center { margin: 1rem auto; }
 	text-align: center;
 	text-rendering: optimizeLegibility;
 	transition: all 150ms ease-in-out;
-	font-smoothing: antialiased;
 	vertical-align: middle;
 }
 .local-buttons img,
@@ -240,7 +240,6 @@ img.float-center { margin: 1rem auto; }
 .local-buttons + .local-button:last-child,
 .social-buttons + .social-button:last-child { margin: 1rem 0 0; }
 /* $ Social Buttons */
-.social-button { background: #d34836; }
 .social-button.fa-envelope { background: #f4a8d0; }
 .social-button.fa-twitter { background: #55acee; }
 .social-button.fa-google-plus { background: #dc4e41; }
@@ -259,7 +258,7 @@ img.float-center { margin: 1rem auto; }
 .social-buttons .spotify a { color: #7ab800; }
 .social-buttons .amazon a { color: #ff9900; }
 .social-buttons .paypal button { color: #009cde; }
-#pay { display: inline-block; }
+.pay { display: inline-block; }
 /* $ Local Buttons */
 /* Pink (Loved) */
 .pink a { color: #f4a8d0; }
