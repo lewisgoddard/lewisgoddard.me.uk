@@ -37,9 +37,7 @@ require __DIR__.'/_templates/header.php';
 					Google+
 				</a>
 		</ul>
-	</section>
-
-	<section>
+		<br>
 		<h2 id="contact">Code with me</h2>
 		<ul class="social-buttons list-style-none columns-two-large">
 			<li class="stack-exchange">
@@ -53,9 +51,7 @@ require __DIR__.'/_templates/header.php';
 					GitHub
 				</a>
 		</ul>
-	</section>
-
-	<section>
+		<br>
 		<h2 id="contact">Pay me</h2>	
 		<ul class="social-buttons list-style-none columns-two-large">
 			<li class="amazon">
