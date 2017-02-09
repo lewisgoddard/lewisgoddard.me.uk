@@ -32,7 +32,7 @@ require __DIR__.'/_templates/header.php';
 					Last.fm
 				</a>
 			<li class="google-plus">
-				<a alt="Google+" href="https://google.com/+LewisGoddard" class="social-button google-plus">
+				<a alt="Google+" href="https://google.com/+LewisGoddard">
 					<i class="social-button fa fa-google-plus"></i>
 					Google+
 				</a>
