@@ -132,7 +132,7 @@ blockquote {
 }
 img { max-width: 100%; }
 img.third {
-	margin: 0 3% 0;
+	margin: 0 3%;
 	border-radius: 3px;
 	max-width: 30%;
 }
@@ -203,7 +203,6 @@ img.float-center { margin: 1rem auto; }
 	margin: 0.5rem 1rem 0.5rem 0;
 	height: 72px;
 	width: 72px;
-	background: #222222;
 	border-radius: 50%;
 	text-align: center;
 	text-rendering: optimizeLegibility;
@@ -304,12 +303,12 @@ img.float-center { margin: 1rem auto; }
 .button.source { background: #6cc644; }
 .button.view { background: #4183c4; }
 .button:hover {
-	color: #fff;
+	color: #ffffff;
 	opacity: 0.9;
 }
 .button:active {
 	box-shadow: none;
-	color: #fff;
+	color: #ffffff;
 }
 /* $ Responsive */
 section.wide { max-width: calc(100% - 10rem); }
