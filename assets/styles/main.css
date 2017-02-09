@@ -35,9 +35,14 @@ section::after {
 	visibility: hidden;
 }
 /* $ Typography */
-h1,
-h2 {
+h1 {
 	font: 400 1rem/1 'Dancing Script', cursive;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+h2 {
+	font: 400 1rem/1 'Source Serif Pro', cursive;
 	margin: 0;
 	padding: 0;
 	text-align: left;

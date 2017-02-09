@@ -12,7 +12,7 @@
 <link rel="icon" href="https://eustasy.org/favicon.ico">
 <link rel="shortcut icon" href="https://eustasy.org/favicon.ico">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/g/normalize">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dancing+Script|Source+Sans+Pro:400,600,400italic" data-noprefix>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dancing+Script|Source+Serif+Pro|Source+Sans+Pro:400,400i,600|Source+Code+Pro" data-noprefix>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/fontawesome/4.6.3/css/font-awesome.min.css" data-noprefix>
 <link rel="stylesheet" href="assets/styles/colorbox.custom.css">
 <link rel="stylesheet" href="assets/styles/main.css">
