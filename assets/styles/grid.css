@@ -6,13 +6,7 @@
 * Zurb's Foundation and CSS-Tricks' grid.                        *
 *****************************************************************/
 
-*{
-	box-sizing: border-box;
-}
-
-.grid{
-
-}
+* { box-sizing: border-box; }
 
 .grid::before,
 .grid::after{

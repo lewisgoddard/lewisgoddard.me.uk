@@ -6,7 +6,7 @@ require __DIR__.'/_templates/header.php';
 
 ?>
 
-	<header id="name">
+	<header class="name">
 		<div class="float-left round face"></div>
 		<h1>Lewis Goddard</h1>
 		<p class="subtitle">A full-time Production Technician, freelance Web Developer &amp; Data Analyst. Also volunteering as a Community Manager for <a href="https://eustasy.org">eustasy</a> and a Web Architect and Community Moderator for <a href="https://elementary.io">elementary</a>.</p>
@@ -64,7 +64,7 @@ require __DIR__.'/_templates/header.php';
 					Amazon
 				</a>
 			<li class="paypal">
-				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" id="pay">
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pay">
 					<input type="hidden" name="cmd" value="_s-xclick">
 					<input type="hidden" name="hosted_button_id" value="MDPLM3Q88KAN8">
 					<input type="hidden" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">

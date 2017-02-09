@@ -1,7 +1,7 @@
 /* Major Blocks */
 body {
 	color: #424242;
-	font: normal 16px/1.5 "Relative", "Akzidenz Grotesk", "Helvetica Neue", "Arial", sans-serif;
+	font: 400 16px/1.5 'Relative', 'Akzidenz Grotesk', 'Helvetica Neue', 'Arial', sans-serif;
 	margin: 0;
 	padding: 0;
 }
@@ -14,7 +14,7 @@ main,
 .wrap {
 	padding: 0 0 0 1rem;
 }
-header[role="banner"] {
+header[role='banner'] {
 	background: #1f1f1f;
 	color: #ffffff;
 }
@@ -44,17 +44,17 @@ h6,
 main p,
 main ul {
 	color: #222222;
-	font-weight: normal;
-	margin: .5rem 3rem .5rem 0;
+	font-weight: 400;
+	margin: 0.5rem 3rem 0.5rem 0;
 	padding: 0;
 }
-main aside p { margin-right: 1rem; }
 main ul { padding-left: 1rem; }
 main p,
 main ul { color: #555555; }
+main aside p { margin-right: 1rem; }
 h1 {
 	font-size: 2.5rem;
-	margin: 0 0 .5rem;
+	margin: 0 0 0.5rem;
 }
 h2 {
 	font-size: 2rem;
@@ -70,7 +70,7 @@ h3 + h3 {
 }
 img { max-width: 100%; }
 .header-img {
-	margin-top: .5rem;
+	margin-top: 0.5rem;
 	max-height: 3rem;
 }
 h4 {
@@ -94,7 +94,7 @@ aside.right,
 .float-right {
 	float: right;
 }
-.grid > * { padding: 0; }
+.grid > div { padding: 0; }
 .clear { clear: both; }
 .text-center { text-align: center; }
 .text-left { text-align: left; }
@@ -102,16 +102,16 @@ aside.right,
 .faded { color: #858585; }
 .faded .important { color: #424242; }
 .faded a { opacity: 0.9; }
-.background-green { background: #78A93B; }
+.background-green { background: #78a93b; }
 .background-blue-dark { background: #23527c; }
 .background-blue-light { background: #337ab7; }
-.color-green { color: #78A93B; }
+.color-green { color: #78a93b; }
 .color-blue-dark { color: #23527c; }
 .color-blue-light { color: #337ab7; }
 .fa { width: 1em; }
 /* Responsiveness */
 @media screen and ( max-width: 1023px ) {
-	header[role="banner"] {
+	header[role='banner'] {
 		display: none;
 	}
 }
@@ -129,7 +129,7 @@ aside.right,
 	}
 	h2 {
 		font-size: 1.75rem;
-		margin: 1.5rem 0 1rem 0;
+		margin: 1.5rem 0 1rem;
 	}
 	h3 {
 		font-size: 1.25rem;
