@@ -146,7 +146,6 @@
             "ignore": ["inside-parens", "param", "value"]
         }],
         "max-empty-lines": 1,
-        "no-descending-specificity": true,
         "no-duplicate-selectors": true,
         "no-empty-source": true,
         "no-eol-whitespace": true,
