@@ -26,6 +26,7 @@ require __DIR__.'/_templates/header.php';
 					<i class="social-button fa fa-twitter"></i>
 					Twitter
 				</a>
+			<!--
 			<li class="lastfm">
 				<a title="Last.fm" href="http://www.last.fm/user/goddardlewis/library/artists">
 					<i class="social-button fa fa-lastfm"></i>
@@ -36,6 +37,7 @@ require __DIR__.'/_templates/header.php';
 					<i class="social-button fa fa-google-plus"></i>
 					Google+
 				</a>
+			-->
 		</ul>
 		<br>
 		<h2 id="contact">Code with me</h2>
