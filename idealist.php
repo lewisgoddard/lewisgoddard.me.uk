@@ -60,7 +60,7 @@ require __DIR__.'/_templates/header.php';
 		<h3><i class="fa fa-lock"></i>&nbsp; Improvements to Security</h3>
 		<p>I'm big on security. All my servers run root-disabled, SSH-Key only access with a 6 digit token that changes every 30 seconds as a secondary authentication method. They are rate-limited and access logged. I've worked on several pieces of software towards similar ends.
 		<ul>
-			<li><a href="https://github.com/eustasy/bubbly">eustasy/bubblyx</a> provides guides, scripts, and configurations for using free, automated SSL by <a href="https://letsencrypt.org/">Let's Ecrypt</a> to secure websites.
+			<li><a href="https://github.com/eustasy/bubbly">eustasy/bubbly</a> provides guides, scripts, and configurations for using free, automated SSL by <a href="https://letsencrypt.org/">Let's Ecrypt</a> to secure websites.
 			<li><a href="https://github.com/eustasy/authenticatron">eustasy/authenticatron</a> is a simpler PHP implementation of Google Authenticator secrets, corresponding QR links, and code verification to easily add second-authentication to websites.
 			<li><a href="https://github.com/eustasy/here-miss">eustasy/here-miss</a> is a selection of tiny DNT detection scripts available in a variety of languages, with configurable honouring of default-set headers.
 		</ul>
