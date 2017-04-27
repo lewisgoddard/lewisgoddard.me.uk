@@ -182,6 +182,9 @@ img.float-center { margin: 1rem auto; }
 	max-height: 3rem;
 }
 /* $ Buttons */
+button {
+	font: inherit;
+}
 .local-buttons,
 .social-buttons,
 .local-button,
