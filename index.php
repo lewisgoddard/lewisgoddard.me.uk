@@ -48,7 +48,7 @@ require __DIR__.'/_templates/header.php';
 					StackExchange
 				</a>
 			<li class="github">
-				<a title="GitHub" href="https://github.com/lewisgoddard?period=monthly">
+				<a title="GitHub" href="https://github.com/lewisgoddard">
 					<i class="social-button fa fa-github-alt"></i>
 					GitHub
 				</a>
