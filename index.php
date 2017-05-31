@@ -76,7 +76,7 @@ require __DIR__.'/_templates/header.php';
 	</section>
 
 	<section>
-		<h2 id="about">About me</h2>
+		<h2 id="about">I am an &hellip;</h2>
 		<ul class="local-buttons list-style-none columns-two-large">
 			<li class="pink">
 				<a href="altruist" title="Altruist">
