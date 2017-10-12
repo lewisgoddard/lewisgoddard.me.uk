@@ -58,7 +58,7 @@ require __DIR__.'/_templates/header.php';
 	</section>
 
 	<section>
-		<h2 id="contact">Pay me</h2>	
+		<h2 id="contact">Pay me with &hellip;</h2>	
 		<ul class="social-buttons list-style-none columns-two-large">
 			<li class="amazon">
 				<a title="Amazon" href="https://www.amazon.co.uk/registry/wishlist/3J2YXDTHBEN07/?sort=priority">
