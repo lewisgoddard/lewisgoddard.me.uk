@@ -13,7 +13,7 @@ require __DIR__.'/_templates/header.php';
 	</header>
 
 	<section>
-		<h2 id="contact">Contact me</h2>
+		<h2 id="contact">Contact me at &hellip;</h2>
 		<p><em class="faded">The quickest way to contact me quickly is probably Twitter, or you can </em><a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#111;&#100;&#100;&#97;&#114;&#100;&#46;&#108;&#101;&#119;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">send me an email</a><em class="faded">. Issues or Questions about any of the GitHub repositories I contribute to should be posted there, that way the issues can be used for reference and I can get a warm, fuzzy feeling when I close them.</em></p>
 		<ul class="social-buttons list-style-none columns-two-large">
 			<li class="pink">
@@ -42,7 +42,7 @@ require __DIR__.'/_templates/header.php';
 	</section>
 
 	<section>
-		<h2 id="contact">Code with me</h2>
+		<h2 id="contact">Code with me on &hellip;</h2>
 		<ul class="social-buttons list-style-none columns-two-large">
 			<li class="stack-exchange">
 				<a title="StackExchange" href="https://stackexchange.com/users/904259/lewis-goddard?tab=accounts">
