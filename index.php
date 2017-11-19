@@ -134,16 +134,20 @@ require __DIR__.'/_templates/header.php';
 		<h2 id="news">In the news</h2>
 		<ul class="list-style-none">
 			<li>
+				<a href="https://www.forbes.com/sites/quora/2017/02/22/why-did-apple-acquire-facial-recognition-company-realface">
+					<i class="fa fa-usd"></i> <span class="faded">2017-02-22</span> Forbes &mdash; Why Did Apple Acquire Facial Recognition Company RealFace?
+				</a>
+			<li>
 				<a href="http://blog.elementary.io/post/152434095006/whats-web-team-up-to">
-					<i class="fa fa-comments"></i> elementary OS Blog &mdash; What’s Web Team Up To?
+					<i class="fa fa-comments"></i> <span class="faded">2016-10-28</span> elementary OS Blog &mdash; What’s Web Team Up To?
 				</a>
 			<li>
 				<a href="http://www.jupiterbroadcasting.com/102466/all-wimpys-vault-lup-159/">
-					<i class="fa fa-linux"></i> Linux Unplugged &mdash; Episode 159 &mdash; All Wimpy’s Vault!
+					<i class="fa fa-linux"></i> <span class="faded">2016-08-23</span> Linux Unplugged &mdash; Episode 159 &mdash; All Wimpy’s Vault!
 				</a>
 			<li>
 				<a href="https://soundcloud.com/simply-elementary/episode-17-twinny-questions-with-the-devs-loki-beta-special">
-					<i class="fa fa-soundcloud"></i> simply elementary &mdash; episode 17 &mdash; twinny questions with the devs (Loki Beta Special)
+					<i class="fa fa-soundcloud"></i> <span class="faded">2016-06-20</span> simply elementary &mdash; episode 17 &mdash; twinny questions with the devs (Loki Beta Special)
 				</a>
 		</ul>
 	</section>
