@@ -134,13 +134,12 @@ require __DIR__.'/_templates/header.php';
 		<h2 id="news">In the news</h2>
 		<ul class="list-style-none">
 			<li>
-				<a href="https://www.forbes.com/sites/quora/2017/02/22/why-did-apple-acquire-facial-recognition-company-realface">
-					<span class="faded">2017-02-22</span> <i class="fa fa-newspaper-o"></i> Forbes &mdash; Why Did Apple Acquire Facial Recognition Company RealFace?
-				</a>
-			<li>
-			<li>
 				<a href="https://www.wsj.com/articles/verizon-launches-new-ad-and-content-unit-as-yahoo-deal-completes-1497362908">
 					<span class="faded">2017-06-13</span> <i class="fa fa-newspaper-o"></i> The Wall Street Journal &mdash; Verizon Launches New Ad and Content Unit as Yahoo Deal Closes
+				</a>
+			<li>
+				<a href="https://www.forbes.com/sites/quora/2017/02/22/why-did-apple-acquire-facial-recognition-company-realface">
+					<span class="faded">2017-02-22</span> <i class="fa fa-newspaper-o"></i> Forbes &mdash; Why Did Apple Acquire Facial Recognition Company RealFace?
 				</a>
 			<li>
 				<a href="http://blog.elementary.io/post/152434095006/whats-web-team-up-to">
