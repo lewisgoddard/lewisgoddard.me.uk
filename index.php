@@ -147,11 +147,15 @@ require __DIR__.'/_templates/header.php';
 				</a>
 			<li>
 				<a href="http://www.jupiterbroadcasting.com/102466/all-wimpys-vault-lup-159/">
-					<span class="faded">2016-08-23</span> <i class="fa fa-linux"></i> Linux Unplugged &mdash; Episode 159 &mdash; All Wimpy’s Vault!
+					<span class="faded">2016-08-23</span> <i class="fa fa-podcast"></i> Linux Unplugged &mdash; Episode 159 &mdash; All Wimpy’s Vault!
 				</a>
 			<li>
 				<a href="https://soundcloud.com/simply-elementary/episode-17-twinny-questions-with-the-devs-loki-beta-special">
-					<span class="faded">2016-06-20</span> <i class="fa fa-soundcloud"></i> simply elementary &mdash; episode 17 &mdash; twinny questions with the devs (Loki Beta Special)
+					<span class="faded">2016-06-20</span> <i class="fa fa-podcast"></i> simply elementary &mdash; episode 17 &mdash; twinny questions with the devs (Loki Beta Special)
+				</a>
+			<li>
+				<a href="http://www.bbc.co.uk/news/world-latin-america-26846984">
+					<span class="faded">2014-04-02</span> <i class="fa fa-newspaper-o"></i> BBC News &mdash; Tsunami alert after 8.2 quake strikes off Chile
 				</a>
 		</ul>
 	</section>
