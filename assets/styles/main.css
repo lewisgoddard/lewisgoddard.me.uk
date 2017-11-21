@@ -108,6 +108,7 @@ ul.list-style-none {
 }
 ul.list-style-none i.fa {
 	min-width: 1.2rem;
+	text-align: center;
 }
 p,
 .max-50 {
