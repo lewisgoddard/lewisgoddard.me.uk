@@ -55,7 +55,6 @@ main aside p { margin-right: 1rem; }
 h1 {
 	font-size: 2.5rem;
 	margin: 0 0 0.5rem;
-	padding-left: 0;
 }
 h2 {
 	font-size: 2rem;
@@ -90,14 +89,17 @@ a:hover { color: #23527c; }
 aside.left,
 .float-left {
 	float: left;
-	margin-left: 0;
+	padding-left: 0;
 }
 aside.right,
 .float-right {
 	float: right;
-	margin-right: 0;
+	padding-right: 0;
 }
 .grid > div { padding: 0; }
+.grid > h1 { padding: 0.5em 0; }
+.grid > aside.left { padding-left: 0; }
+.grid > aside.right { padding-right: 0; }
 .clear { clear: both; }
 .text-center { text-align: center; }
 .text-left { text-align: left; }
