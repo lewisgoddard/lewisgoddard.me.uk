@@ -114,7 +114,10 @@ aside.right,
 .color-green { color: #78a93b; }
 .color-blue-dark { color: #23527c; }
 .color-blue-light { color: #337ab7; }
-.fa { width: 1em; }
+.fa {
+	text-align: center;
+	width: 1em;
+}
 /* Responsiveness */
 @media screen and ( max-width: 1023px ) {
 	header[role='banner'] {
