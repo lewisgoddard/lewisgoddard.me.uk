@@ -98,8 +98,8 @@ aside.right,
 }
 .grid > div { padding: 0; }
 .grid > h1 { padding: 0.5em 0; }
-.grid > aside:not(.right),
-.grid > aside.left{ padding-left: 0; }
+.grid > aside:not( .right ),
+.grid > aside.left { padding-left: 0; }
 .grid > aside.right { padding-right: 0; }
 .clear { clear: both; }
 .text-center { text-align: center; }
