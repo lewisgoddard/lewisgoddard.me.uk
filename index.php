@@ -115,11 +115,13 @@ require __DIR__.'/_templates/header.php';
 					<i class="local-button fa fa-graduation-cap"></i>
 					Student
 				</a>
+			<!-- 
 			<li class="blue">
 				<a href="writer" title="Writer">
 					<i class="local-button fa fa-book"></i>
 					Writer
 				</a>
+			-->
 			<!-- TODO Add Fashion Designer Page
 			<li class="purple">
 				<a href="designer" title="Designer">
