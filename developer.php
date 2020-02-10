@@ -14,12 +14,11 @@ require __DIR__.'/_templates/header.php';
 
 	<section class="wide">
 		<div class="large-half align-center">
-			<h2>Midori-Browser.org</h2>
+			<h2>Midori-Browser.org (discontinued)</h2>
 			<a class="colorbox" href="assets/images/screenshots/midori-browser.png">
 				<img class="screenshot" src="assets/images/screenshots/midori-browser.png">
 			</a>
 			<h4>
-				<a class="button rounded view" href="http://midori-browser.org/"><i class="fa fa-eye"></i>&nbsp; View</a>
 				<a class="button rounded source" href="https://github.com/eustasy/midori-browser.org"><i class="fa fa-code-fork"></i>&nbsp; Source</a>
 			</h4>
 		</div>
