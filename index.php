@@ -26,18 +26,6 @@ require __DIR__.'/_templates/header.php';
 					<i class="social-button fa fa-twitter"></i>
 					Twitter
 				</a>
-			<!--
-			<li class="lastfm">
-				<a title="Last.fm" href="http://www.last.fm/user/goddardlewis/library/artists">
-					<i class="social-button fa fa-lastfm"></i>
-					Last.fm
-				</a>
-			<li class="google-plus">
-				<a alt="Google+" href="https://google.com/+LewisGoddard">
-					<i class="social-button fa fa-google-plus"></i>
-					Google+
-				</a>
-			-->
 		</ul>
 	</section>
 
@@ -103,32 +91,35 @@ require __DIR__.'/_templates/header.php';
 					<i class="local-button fa fa-lightbulb-o"></i>
 					Idealist
 				</a>
-			<!-- TODO Add Artist Page
-			<li class="green">
-				<a href="artist" title="Artist">
-					<i class="local-button fa fa-paint-brush"></i>
-					Artist
-				</a>
-			-->
 			<li class="turquoise">
 				<a href="student" title="Student">
 					<i class="local-button fa fa-graduation-cap"></i>
 					Student
 				</a>
-			<!-- 
+			<?php
+				/*
+			<li class="lastfm">
+				<a title="Last.fm" href="http://www.last.fm/user/goddardlewis/library/artists">
+					<i class="social-button fa fa-lastfm"></i>
+					Last.fm
+				</a>
+			<li class="green">
+				<a href="artist" title="Artist">
+					<i class="local-button fa fa-paint-brush"></i>
+					Artist
+				</a>
 			<li class="blue">
 				<a href="writer" title="Writer">
 					<i class="local-button fa fa-book"></i>
 					Writer
 				</a>
-			-->
-			<!-- TODO Add Fashion Designer Page
 			<li class="purple">
 				<a href="designer" title="Designer">
 					<i class="local-button fa fa-pinterest-p"></i>
 					Artist
 				</a>
-			-->
+				*/
+			?>
 		</ul>
 	</section>
 
