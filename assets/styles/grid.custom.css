@@ -46,6 +46,10 @@
 	width: 66.67%;
 }
 
+.grid .medium-only{
+	display: none;
+}
+
 
 /* Smablet-up screens (larger than most phones) */
 @media only screen and (min-width: 640px) {
@@ -99,6 +103,10 @@
 
 	.grid .medium-two-thirds{
 		width: 66.67%;
+	}
+
+	.grid .medium-only{
+		display: inherit;
 	}
 }
 
