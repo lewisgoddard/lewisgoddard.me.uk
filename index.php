@@ -10,8 +10,8 @@ require __DIR__.'/_templates/header.php';
 		<h1>Lewis Goddard</h1>
 	</header>
 
-	<section>
-		<p class="subtitle">A full-time Production Technician, freelance Web Developer &amp; Data Analyst. Also volunteering as a Community Manager for <a href="https://eustasy.org">eustasy</a> and a Web Architect and Community Moderator for <a href="https://elementary.io">elementary</a>.</p>
+	<section class="subtitle">
+		<p class="faded">A full-time Production Technician, freelance Web Developer &amp; Data Analyst. Also volunteering as a Community Manager for <a href="https://eustasy.org">eustasy</a> and a Web Architect and Community Moderator for <a href="https://elementary.io">elementary</a>.</p>
 	</section>
 
 	<section>
