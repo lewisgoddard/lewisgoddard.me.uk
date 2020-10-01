@@ -7,10 +7,12 @@ require __DIR__.'/_templates/header.php';
 ?>
 
 	<header class="name">
-		<div class="float-left round face"></div>
 		<h1>Lewis Goddard</h1>
-		<p class="subtitle">A full-time Production Technician, freelance Web Developer &amp; Data Analyst. Also volunteering as a Community Manager for <a href="https://eustasy.org">eustasy</a> and a Web Architect and Community Moderator for <a href="https://elementary.io">elementary</a>.</p>
 	</header>
+
+	<section>
+		<p class="subtitle">A full-time Production Technician, freelance Web Developer &amp; Data Analyst. Also volunteering as a Community Manager for <a href="https://eustasy.org">eustasy</a> and a Web Architect and Community Moderator for <a href="https://elementary.io">elementary</a>.</p>
+	</section>
 
 	<section>
 		<h2 id="contact">Contact me at &hellip;</h2>
