@@ -148,6 +148,7 @@ img.third {
 .italic { font-style: italic; }
 .faded { opacity: 0.7; }
 .subtitle { margin-top: 1rem; }
+section.subtitle { padding-top: 1rem; }
 .float-left { float: left; }
 .float-right { float: right; }
 img.float-left { margin: 1rem 1rem 1rem 0; }
