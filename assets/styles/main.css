@@ -1,7 +1,7 @@
 /* $Colors
 
-All Along #056480
-Ardoise #0e556b
+All Along #056480 > 123456
+Ardoise #0e556b > 236084
 Loved #f4a8d0
 Clear Sky #a8e0f4
 Pale Turquoise #aee8e1
@@ -98,12 +98,12 @@ section.wide h4 {
 	text-align: center;
 }
 a {
-	color: #056480;
+	color: #123456;
 	text-decoration: none;
 }
 a:active,
 a:hover {
-	color: #0e556b;
+	color: #236084;
 }
 ul {
 	list-style: square;
