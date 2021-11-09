@@ -1,0 +1,27 @@
+- AMD:
+  name: AMD Ryzen
+  - families:
+    Athlon:
+    Ryzen Embedded:
+    Ryzen 3:
+    Ryzen 5:
+    Ryzen 7:
+    Ryzen 9:
+    Ryzen Threadripper:
+    EPYC Embedded:
+    EPYC:
+  - prefixes:
+    PRO: Remote management.
+    R:
+    V:
+  - suffixes:
+    E: Lowered clock frequency for corresponding TDP drop.
+    G: Integrated graphics.
+    GE: Integrated graphics and lowered clock frequency for corresponding TDP drop.
+    H: Mobile processors with high TDPs, closer to desktop.
+    HS: Mobile processor with high TDP, but curbed slightly for a balance of performance and battery life.
+    U: Mobile processors with far lower TDPs, longer battery life.
+    WX: Workstation CPUs with higher-than-normal TDP.
+    X: Increased clock frequency, common for desktop chips.
+    XT: Second, smaller increase in clock frequency.
+    Gold Edition: Special edition for AMDs 50th anniversary.
