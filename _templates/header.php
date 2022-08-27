@@ -8,7 +8,6 @@
 
 <title><?php echo $Page['Title']; ?></title>
 
-<link rel="author" href="https://plus.google.com/+LewisGoddard?rel=author">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/g/normalize">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dancing+Script|Source+Serif+Pro|Source+Sans+Pro:400,400i,600|Source+Code+Pro" data-noprefix>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4/css/font-awesome.min.css" data-noprefix>
